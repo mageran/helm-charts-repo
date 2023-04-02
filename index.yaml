@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   minio-service-dev:
   - apiVersion: v1
-    created: "2023-04-02T10:53:51.524382-07:00"
+    created: "2023-04-02T10:57:07.974973-07:00"
     description: Minio-service-dev helm chart for Kubernetes
-    digest: 33a193a14203c225f1356cbb666da943c2d361c372ab7c4f986ac861ab53825e
+    digest: 94985bceb79fc4c67eb331fef858b679cfbe04fb2bfc40fb346888dac68b221e
     icon: https://mageran.github.io/helm-charts-repo/images/fox-logo.png
     name: minio-service-dev
     urls:
@@ -12,7 +12,7 @@ entries:
     version: 0.1.0
   node-k8s:
   - apiVersion: v1
-    created: "2023-04-02T10:53:51.524822-07:00"
+    created: "2023-04-02T10:57:07.975376-07:00"
     description: Node web app helm chart for Kubernetes
     digest: 0c90086f1c7aabe74ef0a666165afb2b206fec1b282b7e192bb21b723f967443
     icon: https://mageran.github.io/helm-charts-repo/images/fox-logo.png
@@ -20,4 +20,4 @@ entries:
     urls:
     - https://mageran.github.io/helm-charts-repo/node-k8s-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-02T10:53:51.523386-07:00"
+generated: "2023-04-02T10:57:07.974085-07:00"
