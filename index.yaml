@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   node-k8s:
   - apiVersion: v1
-    created: "2023-04-01T17:33:45.871746-07:00"
+    created: "2023-04-01T18:26:39.186337-07:00"
     description: Node web app helm chart for Kubernetes
-    digest: ac3d9499e94f87d66a21b62140b85b069a2e405418ca3ac515beb83c78bb8321
+    digest: 53cff4fd881af56b7032bdcd688738ae156466807d7180dc96cbfef7b034be84
     icon: https://mageran.github.io/helm-charts-repo/images/fox-logo.png
     name: node-k8s
     urls:
     - https://mageran.github.io/helm-charts-repo/node-k8s-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-01T17:33:45.870074-07:00"
+generated: "2023-04-01T18:26:39.18527-07:00"
